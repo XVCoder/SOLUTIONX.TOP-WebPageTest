@@ -1,2 +1,2 @@
 # WebPageTest
-test for github page fuctions
+test for github pages fuctions
