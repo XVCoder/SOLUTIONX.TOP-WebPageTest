@@ -1,2 +1,2 @@
 # WebPageTest
-test for web page fuction
+test for web page fuctions
